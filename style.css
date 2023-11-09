@@ -1,0 +1,52 @@
+/* Normalize */
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kodchasan';
+}
+
+ul li
+{
+    list-style: none;
+}
+a 
+{
+    text-decoration: none;
+}
+.header
+{
+    padding: 38px 0;
+}
+.header .container
+{
+    width: 1406px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header .container .menu
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+.header .container .honeycha
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 92px;
+    height: 40px;
+    gap: 24px;
+}
+.header .container .menu li a
+{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+   
+}
