@@ -50,3 +50,40 @@ a
     color: black;
    
 }
+.finger .container
+{
+    display: flex;
+    background-image: url(images/finger_glavniy.png);
+    width: 1500px;
+    height: 865px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 30;
+    border-left: 50;
+    border-top: 100;
+    padding: 100 0;
+    background-color: linear-gradient(76.02deg, #FF9D2D 1.66%, #FFD877 93.21%);
+    ;
+}
+.finger .container .burchak
+{
+  padding: 116 0;
+  width: 205px;
+  height: 321px;
+   
+    
+
+}
+.finger .container .honey
+{
+    display: flex;
+   
+    margin: 189px 0 165px;
+    width: 1408px;
+    height: 611px;
+    opacity: 45%;
+    color: #FFA638;
+    top: 189px;
+    left: 128px;
+}
